@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @CaryngtonHarris
--
+- 👋 Hi, I’m @BlitzGrizzly
 - 👀 I’m interested in ... pretty much everything?
 - 🌱 I’m currently learning ... Javascript!
 - 💞️ I’m looking to collaborate on ... all kinds of things.
